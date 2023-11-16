@@ -1,0 +1,366 @@
+[
+  {
+    "pk": 1,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5001340155",
+      "name": "Flock of Doves, Green",
+      "description": "White t-shirt with flock of doves decal in emerald green",
+      "price": 24.99,
+      "category": 1,
+      "rating": 4.6,
+      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0709201205510679M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
+      "image": "shirt1.jpg"
+    }
+  },
+  {
+    "pk": 2,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5001600425",
+      "name": "Black pill",
+      "description": "Black t-shirt with pill decal on breast",
+      "price": 19.99,
+      "category": 1,
+      "rating": 1.9,
+      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0113201617034987M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
+      "image": "shirt2.jpg"
+    }
+  },
+  {
+    "pk": 3,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5001730010",
+      "name": "Black pill with mood board",
+      "description": "Black t-shirt with pill decal and mood boards in series",
+      "price": 19.99,
+      "category": 1,
+      "rating": 2,
+      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP1230201417013175M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
+      "image": "shirt3.jpg"
+    }
+  },
+  {
+    "pk": 4,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5001890157",
+      "name": "Serum wants you t-shirt",
+      "description": "Black t-shirt with 'Serum wants you' decal",
+      "price": 24.99,
+      "category": 1,
+      "rating": 3,
+      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0716201503423610M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
+      "image": "shirt4.jpg"
+    }
+  },
+  {
+    "pk": 5,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5002111605",
+      "name": "Dj Picasso t-shirt",
+      "description": "Black t-shirt with DJ picasso decal",
+      "price": 24.99,
+      "category": 1,
+      "rating": 4.3,
+      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP1115201210371197C.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
+      "image": "shirt5.jpg"
+    }
+  },
+  {
+    "pk": 6,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5002260206",
+      "name": "Dancing doves t-shirt",
+      "description": "White t-shirt with dancing doves decal",
+      "price": 24.99,
+      "category": 1,
+      "rating": 4.7,
+      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0624201520422666C.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
+      "image": "shirt6.jpg"
+    }
+  },
+  {
+    "pk": 7,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5002440521",
+      "name": "Flock of Doves, grey",
+      "description": "White t-shirt with flock of doves decal in grey",
+      "price": 24.99,
+      "category": 1,
+      "rating": 4.4,
+      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0226201317034754M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
+      "image": "shirt7.jpg"
+    }
+  },
+  {
+    "pk": 8,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5002601115",
+      "name": "Loving doves",
+      "description": "White t-shirt with loving doves decal",
+      "price": 19.99,
+      "category": 1,
+      "rating": 4.1,
+      "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0926201317071162M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
+      "image": "shirt8.jpg"
+    }
+  },
+  {
+    "pk": 9,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5002690715",
+      "name": "Tanner Dress",
+      "description": "Tan latex dress with black embellishments",
+      "price": 69.99,
+      "category": 2,
+      "rating": 4.7,
+      "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP1020201517025390M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
+      "image": "dress1.jpg"
+    }
+  },
+  {
+    "pk": 10,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5002701115",
+      "name": "Casual open neck white shirt with flowing blue trousers",
+      "description": "White silk low cut shirt with blue flowing velvet trousers, comes as a pair.",
+      "price": 74.99,
+      "category": 6,
+      "rating": 4.4,
+      "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0418201317011949M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
+      "image": "outfit1.jpg"
+    }
+  },
+  {
+    "pk": 11,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5002761055",
+      "name": "Short grey tie up dress",
+      "description": "Short grey dress with bow on the front",
+      "price": 29.99,
+      "category": 2,
+      "rating": 3,
+      "image_url": "http://s7d2.scene7.com/is/image/JCPenney/0900631B81B0C2D9M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
+      "image": "dress3.jpg"
+    }
+  },
+  {
+    "pk": 12,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5002820069",
+      "name": "Denim dress with slit",
+      "description": "Open leg denim dress with white frilly collar",
+      "price": 49.99,
+      "category": 2,
+      "rating": 4.6,
+      "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0510201317010521M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
+      "image": "dress4.jpg"
+    }
+  },
+  {
+    "pk": 13,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5002820147",
+      "name": "Open back blouse with torn ankle jeans",
+      "description": "Open back white blouse with torn blue Jeans outfit, comes as a pair",
+      "price": 49.99,
+      "category": 6,
+      "rating": 3.2,
+      "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0430201405053680M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
+      "image": "outfit2.jpg"
+    }
+  },
+  {
+    "pk": 14,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5002910572",
+      "name": "Static dress",
+      "description": "Short dress with static design, with blue hemming",
+      "price": 34.99,
+      "category": 5,
+      "rating": 4.7,
+      "image_url": "http://s7d2.scene7.com/is/image/JCPenney/0900631B81C9387BM.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
+      "image": "dress6.jpg"
+    }
+  },
+  {
+    "pk": 15,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5002990740",
+      "name": "Black over dress",
+      "description": "Thick black wool dress with acompanying under skirt",
+      "price": 48.99,
+      "category": 2,
+      "rating": 4.8,
+      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP1029201317111469M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
+      "image": "dress7.jpg"
+    }
+  },
+  {
+    "pk": 16,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5003050248",
+      "name": "Smart grey dress",
+      "description": "Formal loose fitting grey skirt",
+      "price": 65.99,
+      "category": 2,
+      "rating": 4.4,
+      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0918201520303373C.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
+      "image": "dress8.jpg"
+    }
+  },
+  {
+    "pk": 17,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5003070787",
+      "name": "Pink blouse with blue trousers",
+      "description": "Pink loose fitting blouse with blue satin flowing trousers",
+      "price": 44.99,
+      "category": 6,
+      "rating": 4.4,
+      "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP1119201520340305C.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
+      "image": "outfit3.jpg"
+    }
+  },
+  {
+    "pk": 18,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5003090182",
+      "name": "Duo cardigans with dress",
+      "description": "Black dress with two extra cardigans for a multitude of styles, all in cotton.",
+      "price": 59.99,
+      "category": 6,
+      "rating": 4.8,
+      "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0807201317072274M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
+      "image": "outfit4.jpg"
+    }
+  },
+  {
+    "pk": 19,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5003090186",
+      "name": "Silk Blouse",
+      "description": "White silk blouse, loose fitting for extra comfort",
+      "price": 60.99,
+      "category": 7,
+      "rating": 5,
+      "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0807201317072924M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
+      "image": "blouse1.jpg"
+    }
+  },
+  {
+    "pk": 20,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5003161326",
+      "name": "Multi-coloured short overcoat",
+      "description": "Multi-coloured over coat with peacock-esque design, cyan lapels",
+      "price": 89.99,
+      "category": 8,
+      "rating": 4.7,
+      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0821201317103183M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
+      "image": "coat1.jpg"
+    }
+  },
+  {
+    "pk": 21,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5003230723",
+      "name": "Blue jeans, torn",
+      "description": "Distressed blue jeans with well worn knees",
+      "price": 34.99,
+      "category": 3,
+      "rating": 4.3,
+      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/0900631B81D676AEM.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
+      "image": "jeans1.jpg"
+    }
+  },
+  {
+    "pk": 22,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5003270936",
+      "name": "Blue jeans, patchwork",
+      "description": "Blue Jeans with patchwork.",
+      "price": 34.99,
+      "category": 3,
+      "rating": 5,
+      "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0917201317033820M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
+      "image": "jeans2.jpg"
+    }
+  },
+  {
+    "pk": 23,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5003360384",
+      "name": "Blue jeans, stains",
+      "description": "Blue jeans with paint stains, gives the illusion of a days work",
+      "price": 34.99,
+      "category": 3,
+      "rating": 4.8,
+      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0927201317061305M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
+      "image": "jeans3.jpg"
+    }
+  },
+  {
+    "pk": 24,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5003440111",
+      "name": "Blue jeans",
+      "description": "Straight blue jeans",
+      "price": 37.99,
+      "category": 3,
+      "rating": 3.8,
+      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP1023201317051585M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
+      "image": "jeans4.jpg"
+    }
+  },
+  {
+    "pk": 25,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5003560513",
+      "name": "Tan leather boots",
+      "description": "Tan leather slip on boots",
+      "price": 89.99,
+      "category": 5,
+      "rating": 4.4,
+      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0219201502115503C.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
+      "image": "shoes1.jpg"
+    }
+  },
+  {
+    "pk": 26,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5003560948",
+      "name": "Rugged Wrappings",
+      "description": "rugged loose fitting wrappings in a multitude of colours and designs",
+      "price": 94.99,
+      "category": 5,
+      "rating": 5,
+      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0610201317080834M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
+      "image": "shoes2.jpg"
+    }
+  }
+]
