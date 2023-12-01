@@ -362,5 +362,159 @@
       "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0610201317080834M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
       "image": "shoes2.jpg"
     }
+  },
+  {
+    "pk": 27,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5003560948",
+      "name": "Snake skin cap",
+      "description": "Baseball cap with samber snakeskin print and black brim",
+      "price": 14.99,
+      "category": 9,
+      "rating": 3.5,
+      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0610201317080834M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
+      "image": "cap1.jpg"
+    }
+  },
+  {
+    "pk": 28,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5003570628",
+      "name": "Rough Canvas hat",
+      "description": "Sturdy canvas hat in dark blue, shiny for some reason",
+      "price": 14.99,
+      "category": 9,
+      "rating": 4.3,
+      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/0900631B818ABCB9M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
+      "image": "cap2.jpg"
+    }
+  },
+  {
+    "pk": 29,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5003620308",
+      "name": "Fancy Hat floral",
+      "description": "Womans black hat with abstract floral design",
+      "price": 12.99,
+      "category": 9,
+      "rating": 4.6,
+      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0422201517022488M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
+      "image": "hat1.jpg"
+    }
+  },
+  {
+    "pk": 30,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5003690115",
+      "name": "fancy hat rainbow",
+      "description": "Womans black hat with abstract floral design",
+      "price": 12.99,
+      "category": 9,
+      "rating": 3.1,
+      "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0113201417050002M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
+      "image": "hat2.jpg"
+    }
+  },
+  {
+    "pk": 31,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5003690116",
+      "name": "Minimalist satchel",
+      "description": "Blue sports backpack with Minimalist squares design",
+      "price": 39.99,
+      "category": 10,
+      "rating": 4,
+      "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0213201417022274M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
+      "image": "backpack1.jpg"
+    }
+  },
+  {
+    "pk": 32,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5003780391",
+      "name": "Pearlescent sheen backpack",
+      "description": "Sparklely purple pearlescent backpack with blue embellishments",
+      "price": 35.99,
+      "category": 10,
+      "rating": 4.1,
+      "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP1028201517024563M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
+      "image": "backpack2.jpg"
+    }
+  },
+  {
+    "pk": 33,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5003790542",
+      "name": "Fomal backpack",
+      "description": "Tough grey backpack thats both formal and stylish",
+      "price": 41.99,
+      "category": 10,
+      "rating": 4.5,
+      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0422201617033665M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
+      "image": "backpack3.jpg"
+    }
+  },
+  {
+    "pk": 34,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5003831225",
+      "name": "Jimmy jam funk backpack",
+      "description": "Funky jimmy jam back pack with many designs",
+      "price": 39.99,
+      "category": 10,
+      "rating": 4.5,
+      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0915201413433903C.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
+      "image": "backpack4.jpg"
+    }
+  },
+  {
+    "pk": 35,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5003861402",
+      "name": "Floral braclet",
+      "description": "Floral pattern bracelet in rose and silver, with a clasp",
+      "price": 129.99,
+      "category": 11,
+      "rating": 4.7,
+      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0430201405113681M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
+      "image": "jewelery1.jpg"
+    }
+  },
+  {
+    "pk": 36,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5003910638",
+      "name": "Four circles ring",
+      "description": "Sterling silver with with fours stylish circles",
+      "price": 79.99,
+      "category": 11,
+      "rating": 4.6,
+      "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0401201417083996M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
+      "image": "jewelery2.jpg"
+    }
+  },
+  {
+    "pk": 37,
+    "model": "products.product",
+    "fields": {
+      "sku": "pp5003950574",
+      "name": "Royal Velvet Egyptian necklace",
+      "description": "nice bracelet in velvet eygption magic fucking bullshit",
+      "price": 1000.99,
+      "category": 11,
+      "rating": 5,
+      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0828201517030241M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
+      "image": "jewelery3.jpg"
+    }
   }
 ]
