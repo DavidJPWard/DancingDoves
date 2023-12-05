@@ -1,0 +1,23 @@
+[
+    {
+      "pk": 1,
+      "model": "products.gender",
+      "fields": {
+        "genderValue": "male"
+      }
+    },
+      {
+      "pk": 2,
+      "model": "products.gender",
+      "fields": {
+        "genderValue": "female"
+      }
+    },
+      {
+      "pk": 3,
+      "model": "products.gender",
+      "fields": {
+        "genderValue": "unisex"
+      }
+    }
+]
